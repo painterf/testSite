@@ -1,6 +1,5 @@
 --- 
 layout: default
-title: ’‚ «ª∂”≠“≥£°
+title: Index
 ---
-* πßœ≤£°
-°°
+* welcome!
